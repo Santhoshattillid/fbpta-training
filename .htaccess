@@ -1,0 +1,12 @@
+# Added by the pair Networks Software Installation Manager
+AddType application/x-httpd-php .php
+
+
+# BEGIN WPSuperCache
+# END WPSuperCache
+
+# BEGIN WordPress
+ErrorDocument 404 /fbpta-training/wp-content/plugins/wpppm/wpppm.php
+
+
+# END WordPress
